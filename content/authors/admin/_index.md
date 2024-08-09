@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhiyi Zhu is a Ph.D. candidate of open science at the open geographic modeling and simulation lab (OpenGMS). Her interest lies in Geo-Informatics, encompassing three interconnected fields: Reproducibility, Geostatistics, and Geographical Modeling and Simulation. Over the last few years, she have refined and enriched the concept of reproducibility in geo-simulation experiments (GSEs) to address scientific challenges.
