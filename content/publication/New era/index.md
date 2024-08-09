@@ -18,7 +18,7 @@ authors:
 date: "2021-06-03"
 doi: "10.1007/s11430-020-9759-0"
 
-publishDate: "2021-01-05T00:00:00Z"
+publishDate: "2021-06-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "*Science China Earth Sciences*, 64(8), 1207–1223. (IF 6.0, JCR Q1)"

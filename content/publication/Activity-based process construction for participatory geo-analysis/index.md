@@ -10,10 +10,10 @@ authors:
 - Guonian Lv
 - Mingyue Lu
 
-date: "2020-01-03"
+date: "2020-11-03"
 doi: "10.1080/15481603.2020.1868211"
 
-publishDate: "2020-01-05T00:00:00Z"
+publishDate: "2020-11-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "*GIScience & Remote Sensing*, 58(2), 180–198. (IF 6.0, JCR Q1)"

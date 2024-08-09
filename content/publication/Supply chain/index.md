@@ -9,10 +9,10 @@ authors:
 - Futu Faturay 
 - admin 
 
-date: "2022-10-03"
+date: "2021-10-03"
 doi: "10.1007/s11069-021-05034-8"
 
-publishDate: "2022-05-05T00:00:00Z"
+publishDate: "2021-10-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "*Natural Hazards*, 110(3), 2227–2248. (IF 3.3, JCR Q1)"
