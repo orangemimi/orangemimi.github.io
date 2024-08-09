@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: Presentations
+    id: talks
     content:
       title: Recent Academic Presentations
       filters:
