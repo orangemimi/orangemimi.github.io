@@ -1,10 +1,8 @@
 ---
-
 title: "An example journal article"
-
 authors:
 - admin
-- Chen Min
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -20,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Applied Earth Observation and Geoinformation* 124 (2023) 103520"
+publication: "*nternational Journal of Applied Earth Observation and Geoinformation*(1)"
 # publication_short: ""
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -35,14 +33,14 @@ publication: "*International Journal of Applied Earth Observation and Geoinforma
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
