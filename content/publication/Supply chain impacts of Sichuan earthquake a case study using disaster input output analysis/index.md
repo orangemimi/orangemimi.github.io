@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Supply-chain impacts of Sichuan earthquake: a case study using disaster input–output analysis"
 authors:
 - Rui Huang*
@@ -20,4 +20,4 @@ projects: []
 
 ---
 
- -->
+

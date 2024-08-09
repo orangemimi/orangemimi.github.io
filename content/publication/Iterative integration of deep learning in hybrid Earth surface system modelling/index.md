@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Iterative integration of deep learning in hybrid Earth surface system modelling"
 authors:
 - Min Chen#*
@@ -34,7 +34,7 @@ authors:
 - Hui Lin 
 - Guonian Lv*
 
-date: "2023-01-03"
+date: "2023-06-03"
 doi: "10.1038/s43017-023-00452-7"
 
 publishDate: "2023-07-05T00:00:00Z"
@@ -45,4 +45,4 @@ projects: []
 
 ---
 
- -->
+
