@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Activity-based process construction for participatory geo-analysis"
 authors:
 - Zaiyang Ma
@@ -20,4 +20,4 @@ publication: "*GIScience & Remote Sensing*, 58(2), 180–198. (IF 6.0, JCR Q1)"
 projects: []
 ---
 
- -->
+
