@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        <img src="/images/1.jpg" alt="Research Image" width="300">
+        <img src="assets/images/1.jpg" alt="Research Image" width="300">
         
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
