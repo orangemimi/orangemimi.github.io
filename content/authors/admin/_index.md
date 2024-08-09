@@ -7,7 +7,7 @@ title: Zhiyi Zhu
 
 # Full name (for SEO)
 first_name: Zhiyi
-last_name: Zhu
+last_name: Zhu,
 
 # Status emoji
 # status:
