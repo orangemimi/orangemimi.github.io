@@ -46,7 +46,7 @@ sections:
       title: 'My Baby Cat -- JuanJuan'
       subtitle: ''
       text: |-
-       <img src="/static/images/1.jpeg"  alt="Image 1">
+
         <div id="carouselExample" class="carousel slide my-carousel" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
