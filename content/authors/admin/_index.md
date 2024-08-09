@@ -46,8 +46,8 @@ interests:
   - Information Retrieval & Management
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Geographic modeling and simulation
+    institution: Nanjing Normal University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -66,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc GISscience
+    institution: Nanjing University of Information Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
