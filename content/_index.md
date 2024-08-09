@@ -49,10 +49,10 @@ sections:
         <div id="carouselExample" class="carousel slide my-carousel" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="/images/1.jpeg" class="d-block w-100" alt="Image 1">
+              <img src="/static/images/1.jpeg" class="d-block w-100" alt="Image 1">
             </div>
             <div class="carousel-item">
-              <img src="/images/2.jpeg" class="d-block w-100" alt="Image 2">
+              <img src="/static/images/2.jpeg" class="d-block w-100" alt="Image 2">
             </div>
             <!-- 继续添加其他图片 -->
           </div>
