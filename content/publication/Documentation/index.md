@@ -1,5 +1,5 @@
 ---
-title: "3Documentation strategy for facilitating the reproducibility of geo-simulation experiments"
+title: "Documentation strategy for facilitating the reproducibility of geo-simulation experiments"
 authors:
 - admin
 - Min Chen*
@@ -17,7 +17,7 @@ doi: "10.1016/j.envsoft.2023.105687"
 publishDate: "2023-01-05T00:00:00Z"
 publication_types: ["article-journal"]
 
-publication: "*Environmental Modelling & Software*, 163, 105687"
+publication: "*Environmental Modelling & Software*, 163, 105687 (IF 4.8, JCR Q1) "
 projects: []
 
 ---
