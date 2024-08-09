@@ -12,7 +12,7 @@ authors:
 - Songshan Yue
 - Guonian Lv
 
-date: "2023-01-01T00:00:00Z"
+date: "2023-01-01"
 doi: "10.1016/j.jag.2023.103520"
 
 publishDate: "2023-01-01T00:00:00Z"

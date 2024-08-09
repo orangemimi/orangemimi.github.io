@@ -1,5 +1,5 @@
 ---
-title: "444Documentation strategy for facilitating the reproducibility of geo-simulation experiments"
+title: "Documentation strategy for facilitating the reproducibility of geo-simulation experiments"
 authors:
 - admin
 - Min Chen*
@@ -11,7 +11,7 @@ authors:
 - Songshan Yue
 - Guonian Lv
 
-date: "2023-01-03T00:00:00Z"
+date: "2023-01-03T"
 doi: "10.1016/j.envsoft.2023.105687"
 
 publishDate: "2023-01-05T00:00:00Z"
