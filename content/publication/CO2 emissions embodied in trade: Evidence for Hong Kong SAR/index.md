@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "CO2 emissions embodied in trade: Evidence for Hong Kong SAR"
 authors:
 - Rui Huang
@@ -17,4 +17,4 @@ projects: []
 
 ---
 
- -->
+
