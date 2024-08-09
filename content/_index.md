@@ -35,8 +35,7 @@ sections:
       title: 'My Baby Cat -- JuanJuan'
       subtitle: ''
       text: |-
-        <img src="images/1.jpeg" alt="Research Image" width="300">
-         ![Research Image](/images/1.jpeg)
+        <img src="/static/images/1.jpeg" alt="Research Image" width="300">
         JuanJuan is a charming young Ragdoll cat, born on March 12, 2023. He’s an exceptionally well-behaved and gentle boy, who loves nothing more than rubbing against people and indulging in a soothing massage. JuanJuan has a playful spirit, especially when it comes to interacting with birds, which he finds endlessly entertaining. He also enjoys basking in the sun, soaking up its warmth with contentment. He loves staying by my side while I work, making him the perfect, affectionate companion. 
     design:
       columns: '1'
@@ -61,16 +60,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent Academic Presentations
-      filters:
-        folders:
-          - talks
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent Academic Presentations
+  #     filters:
+  #       folders:
+  #         - talks
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   # - block: collection
   #   id: news
   #   content:
