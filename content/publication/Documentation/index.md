@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Documentation strategy for facilitating the reproducibility of geo-simulation experiments"
 authors:
 - admin
@@ -22,4 +22,4 @@ projects: []
 
 ---
 
- -->
+
