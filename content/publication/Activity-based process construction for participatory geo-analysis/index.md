@@ -18,7 +18,6 @@ publication_types: ["article-journal"]
 
 publication: "*GIScience & Remote Sensing*, 58(2), 180–198. (IF 6.0, JCR Q1)"
 projects: []
-
 ---
 
 
