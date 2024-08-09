@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 publication: "*International Journal of Applied Earth Observation and Geoinformation,* 124 (2023) 103520"
 projects: []
-weight: 1
+
 ---
 
 
