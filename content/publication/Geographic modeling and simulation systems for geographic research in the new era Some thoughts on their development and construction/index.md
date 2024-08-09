@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Geographic modeling and simulation systems for geographic research in the new era: Some thoughts on their development and construction"
 authors:
 
@@ -26,4 +26,4 @@ projects: []
 
 ---
 
-
+ -->
