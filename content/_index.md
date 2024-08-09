@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-09
 type: landing
 
 design:
@@ -84,7 +84,6 @@ sections:
           left: 0;
         }
         </style>
-
         <div class="carousel-container">
           <div class="carousel-slides">
             <img src="/static/images/1.jpeg" alt="Image 1">
