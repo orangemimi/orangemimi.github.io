@@ -69,7 +69,7 @@ sections:
       title: Recent Academic Presentations
       filters:
         folders:
-          - presentations
+          - talks
     design:
       view: article-grid
       columns: 1
