@@ -32,15 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Baby Cat -- JuanJuan'
       subtitle: ''
       text: |-
-        <img src="assets/images/1.jpeg" alt="Research Image" width="300">
-        
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+        <img src="images/1.jpeg" alt="Research Image" width="300">
+        JuanJuan is a charming young Ragdoll cat, born on March 12, 2023. He’s an exceptionally well-behaved and gentle boy, who loves nothing more than rubbing against people and indulging in a soothing massage. JuanJuan has a playful spirit, especially when it comes to interacting with birds, which he finds endlessly entertaining. He also enjoys basking in the sun, soaking up its warmth with contentment. He loves staying by my side while I work, making him the perfect, affectionate companion. 
     design:
       columns: '1'
   # - block: collection
