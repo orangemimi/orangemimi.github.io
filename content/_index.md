@@ -36,6 +36,47 @@ sections:
       subtitle: ''
       text: |-
         <img src="/static/images/1.jpeg" alt="Research Image" width="300">
+
+        <div id="carouselExample" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="/static/images/1.jpeg" class="d-block w-100" alt="Image 1" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/2.jpeg" class="d-block w-100" alt="Image 2" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/3.jpeg" class="d-block w-100" alt="Image 3" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/4.jpeg" class="d-block w-100" alt="Image 4" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/5.jpeg" class="d-block w-100" alt="Image 5" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/6.jpeg" class="d-block w-100" alt="Image 6" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/7.jpeg" class="d-block w-100" alt="Image 7" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/8.jpeg" class="d-block w-100" alt="Image 8" style="width:300px;height:auto;">
+            </div>
+            <div class="carousel-item">
+              <img src="/static/images/9.jpeg" class="d-block w-100" alt="Image 9" style="width:300px;height:auto;">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+
         JuanJuan is a charming young Ragdoll cat, born on March 12, 2023. He’s an exceptionally well-behaved and gentle boy, who loves nothing more than rubbing against people and indulging in a soothing massage. JuanJuan has a playful spirit, especially when it comes to interacting with birds, which he finds endlessly entertaining. He also enjoys basking in the sun, soaking up its warmth with contentment. He loves staying by my side while I work, making him the perfect, affectionate companion. 
     design:
       columns: '1'
