@@ -49,8 +49,8 @@ sections:
 
         <div class="swiper-container">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="/static/images/1.jpeg" alt="Image 1" style="width:30%;"></div>
-            <div class="swiper-slide"><img src="/static/images/2.jpeg" alt="Image 2" style="width:30%;"></div>
+            <div class="swiper-slide"><img src="/images/1.jpeg" alt="Image 1" style="width:30%;"></div>
+            <div class="swiper-slide"><img src="/images/2.jpeg" alt="Image 2" style="width:30%;"></div>
             <!-- 继续添加其他图片 -->
           </div>
           <!-- 如果需要导航按钮 -->
