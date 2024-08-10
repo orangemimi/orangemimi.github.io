@@ -46,6 +46,7 @@ sections:
       title: 'My Baby Cat -- JuanJuan'
       subtitle: ''
       text: |-
+       <img src="/static/images/1.jpeg" alt="Image 1">
 <style>
         .carousel-container {
           max-width: 300px;
