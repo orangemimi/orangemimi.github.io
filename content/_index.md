@@ -46,71 +46,8 @@ sections:
       title: 'My Baby Cat -- JuanJuan'
       subtitle: ''
       text: |-
-       <img src="/static/images/1.jpeg" alt="Image 1">
-<style>
-        .carousel-container {
-          max-width: 300px;
-          position: relative;
-          margin: auto;
-          overflow: hidden;
-        }
-        .carousel-slides {
-          display: flex;
-          transition: transform 0.5s ease-in-out;
-        }
-        .carousel-slides img {
-          width: 300px;
-          height: auto;
-          flex-shrink: 0;
-        }
-        .prev, .next {
-          cursor: pointer;
-          position: absolute;
-          top: 50%;
-          width: auto;
-          padding: 16px;
-          margin-top: -22px;
-          color: white;
-          font-weight: bold;
-          font-size: 18px;
-          transition: 0.6s ease;
-          border-radius: 0 3px 3px 0;
-          user-select: none;
-        }
-        .next {
-          right: 0;
-          border-radius: 3px 0 0 3px;
-        }
-        .prev {
-          left: 0;
-        }
-        </style>
-        <div class="carousel-container">
-          <div class="carousel-slides">
-            <img src="/static/images/1.jpeg" alt="Image 1">
-            <img src="/static/images/2.jpeg" alt="Image 2">
-            <img src="/static/images/3.jpeg" alt="Image 3">
-            <img src="/static/images/4.jpeg" alt="Image 4">
-            <img src="/static/images/5.jpeg" alt="Image 5">
-            <img src="/static/images/6.jpeg" alt="Image 6">
-            <img src="/static/images/7.jpeg" alt="Image 7">
-            # <img src="/images/8.jpeg" alt="Image 8">
-            # <img src="/images/9.jpeg" alt="Image 9">
-          </div>
-          <a class="prev" onclick="moveSlides(-1)">&#10094;</a>
-          <a class="next" onclick="moveSlides(1)">&#10095;</a>
-        </div>
-
-        <script>
-        let currentIndex = 0;
-
-        function moveSlides(n) {
-          const slides = document.querySelector('.carousel-slides');
-          const totalSlides = slides.children.length;
-          currentIndex = (currentIndex + n + totalSlides) % totalSlides;
-          slides.style.transform = `translateX(-${currentIndex * 300}px)`;
-        }
-        </script> 2JuanJuan is a charming young Ragdoll cat, born on March 12, 2023. He’s an exceptionally well-behaved and gentle boy, who loves nothing more than rubbing against people and indulging in a soothing massage. JuanJuan has a playful spirit, especially when it comes to interacting with birds, which he finds endlessly entertaining. He also enjoys basking in the sun, soaking up its warmth with contentment. He loves staying by my side while I work, making him the perfect, affectionate companion. 
+       <img src="/static/images/2.jpeg" alt="Image 1">
+JuanJuan is a charming young Ragdoll cat, born on March 12, 2023. He’s an exceptionally well-behaved and gentle boy, who loves nothing more than rubbing against people and indulging in a soothing massage. JuanJuan has a playful spirit, especially when it comes to interacting with birds, which he finds endlessly entertaining. He also enjoys basking in the sun, soaking up its warmth with contentment. He loves staying by my side while I work, making him the perfect, affectionate companion. 
     design:
       columns: '1'
   # - block: collection
